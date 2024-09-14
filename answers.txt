@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to absolutely any field. Every field
+requires data and could be enhanced with data collection and analysis. 
+One example is mobile phone stores. They can collect data about who usually
+uses their phones, the age-group, the profession, etc. Based on that they 
+can sell to their target audience. Another example is healthcare, where they
+can collect and study data to understand trends for better and early diagnosis.
