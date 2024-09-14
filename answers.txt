@@ -13,3 +13,13 @@ uses their phones, the age-group, the profession, etc. Based on that they
 can sell to their target audience. Another example is healthcare, where they
 can collect and study data to understand trends for better and early diagnosis.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes changes from one branch and tries to integrate them
+into another branch. It also creates a merge commit. This way, we retain the
+history of what we developed where. Rebasing, on the other hand, reapplies
+the commit from one branch to the other. It rewrites the commit history. The
+advantage is that the commit history is linear and thus cleaner. The 
+disadvantage is the change in the commit history, which can make
+things confusing.
