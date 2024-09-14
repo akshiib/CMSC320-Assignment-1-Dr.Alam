@@ -23,3 +23,9 @@ the commit from one branch to the other. It rewrites the commit history. The
 advantage is that the commit history is linear and thus cleaner. The 
 disadvantage is the change in the commit history, which can make
 things confusing.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I want to learn how to conduct an exploratory data analysis.
+I also often struggle with finding good sources of data for data collection
+purposes. Those are the skills I hope to improve.
